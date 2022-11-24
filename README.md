@@ -1,4 +1,4 @@
-# batch_CG_CCG_overlay
+# Batch PNG overlays
 
 A rapid batch-overlay system for computer-generated CCG cards.
 
